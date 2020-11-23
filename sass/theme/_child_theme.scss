@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+
+* {
+  font-family: "Roboto";
+}
+
+a {
+  color: blue;
+}
+
+#page-wrapper.splash-page {
+  padding-top: 0px;
+  .jumbotron {
+    min-height: 450px;
+    color: #fff;
+  }
+  .section {
+    padding: 2em 0;
+  }
+  .current-book-section {
+    background-color: #393939;
+    color: #fff;
+  }
+}
