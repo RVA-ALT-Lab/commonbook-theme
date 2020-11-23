@@ -25,7 +25,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         <div class="container-fluid">
           <h1 class="display-4">Common Book Program</h1>
           <h2>Encouragining discourse among students, faculty, and the community</h2>
-          <a href="/about" class="btn btn-secondary">About the Common Book Program</a>
+          <a href="/common-book-dev/about" class="btn btn-secondary">About the Common Book Program</a>
         </div>
       </div>
 
@@ -130,5 +130,4 @@ $container = get_theme_mod( 'understrap_container_type' );
 	</div><!-- #content -->
 
 </div><!-- #page-wrapper -->
-<script type="text/javascript" src="//branding.vcu.edu/bar/academic/latest.js"></script>
 <?php get_footer(); ?>
